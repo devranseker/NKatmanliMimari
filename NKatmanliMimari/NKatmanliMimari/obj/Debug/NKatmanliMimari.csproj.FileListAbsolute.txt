@@ -1,0 +1,17 @@
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.dll
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CopyComplete
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\devra\Desktop\C# Projelerim\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
